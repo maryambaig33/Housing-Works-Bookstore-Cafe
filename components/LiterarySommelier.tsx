@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Sparkles, Coffee, BookOpen, Loader2, ArrowRight } from 'lucide-react';
+import { Sparkles, Coffee, BookOpen, Loader2 } from 'lucide-react';
 import { getLiteraryPairings } from '../services/geminiService';
 import { BookPairing } from '../types';
 
