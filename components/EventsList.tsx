@@ -1,6 +1,6 @@
 import React from 'react';
 import { EventItem } from '../types';
-import { Calendar, Clock, MapPin, ArrowRight } from 'lucide-react';
+import { Calendar, Clock, ArrowRight } from 'lucide-react';
 
 const EVENTS: EventItem[] = [
   {
